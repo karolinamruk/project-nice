@@ -2,27 +2,11 @@
 $color-one: #ffffff;
 $color-two: #000000;
 $color-three: #fed136;
+$font-one: "Great Vibes", cursive;
+$font-two: "Merriweather", serif;
+$font-three: "Roboto", sans-serif;
 
-/* Navigation */
-
-.navigation {
-  background-color: $color-three;
-  padding: 12px 0;
-}
-
-.navigation ul {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-}
-
-.navigation ul li {
-  display: inline-block;
-  margin-right: 36px;
-  position: relative;
-}
-
-.navigation a {
-  text-decoration: none;
-  color: $color-one;
+/*Navigation */
+.navbar-brand {
+  color: $color-three;
 }

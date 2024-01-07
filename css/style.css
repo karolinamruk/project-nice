@@ -1,25 +1,7 @@
 /* Variables */
-/* Navigation */
-.navigation {
-  background-color: #fed136;
-  padding: 12px 0;
+/*Navigation */
+.navbar-brand {
+  color: #fed136;
 }
 
-.navigation ul {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-}
-
-.navigation ul li {
-  display: inline-block;
-  margin-right: 36px;
-  position: relative;
-}
-
-.navigation a {
-  text-decoration: none;
-  color: #ffffff;
-}
-
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxjQUFBO0FBS0EsZUFBQTtBQUVBO0VBQ0UseUJBTFk7RUFNWixlQUFBO0FDSkY7O0FET0E7RUFDRSxVQUFBO0VBQ0EsU0FBQTtFQUNBLHFCQUFBO0FDSkY7O0FET0E7RUFDRSxxQkFBQTtFQUNBLGtCQUFBO0VBQ0Esa0JBQUE7QUNKRjs7QURPQTtFQUNFLHFCQUFBO0VBQ0EsY0F6QlU7QUNxQloiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxjQUFBO0FBUUEsY0FBQTtBQUNBO0VBQ0UsY0FQWTtBQ0NkIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
