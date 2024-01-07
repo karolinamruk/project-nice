@@ -5,8 +5,24 @@ $color-three: #fed136;
 
 /* Navigation */
 
+.navigation {
+  background-color: $color-three;
+  padding: 12px 0;
+}
+
 .navigation ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
+}
+
+.navigation ul li {
+  display: inline-block;
+  margin-right: 36px;
+  position: relative;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: $color-one;
 }
