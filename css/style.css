@@ -6,6 +6,16 @@
   box-sizing: border-box;
 }
 
+/*Splash*/
+.splash {
+  height: 100vh;
+  position: relative;
+  background-image: url("https://i.postimg.cc/XYt27NH4/pexels-arina-krasnikova-5951356.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 /* Navigation */
 .navbar-light .navbar-brand {
   color: #fed136;
@@ -13,4 +23,4 @@
   font-size: 25px;
 }
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxjQUFBO0FBUUEsV0FBQTtBQUNBOzs7RUFHRSxzQkFBQTtBQ05GOztBRFNBLGVBQUE7QUFDQTtFQUNFLGNBQUE7RUFDQSxtQ0FaVztFQWFYLGVBQUE7QUNORiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxjQUFBO0FBUUEsV0FBQTtBQUNBOzs7RUFHRSxzQkFBQTtBQ05GOztBRFFBLFNBQUE7QUFDQTtFQUNFLGFBQUE7RUFDQSxrQkFBQTtFQUNBLDBGQUFBO0VBQ0Esa0NBQUE7RUFDQSxzQkFBQTtFQUNBLDRCQUFBO0FDTEY7O0FEUUEsZUFBQTtBQUNBO0VBQ0UsY0FBQTtFQUNBLG1DQXJCVztFQXNCWCxlQUFBO0FDTEYiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
