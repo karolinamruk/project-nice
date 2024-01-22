@@ -2,11 +2,20 @@
 $color-one: #ffffff;
 $color-two: #000000;
 $color-three: #fed136;
-$font-one: "Great Vibes", cursive;
-$font-two: "Merriweather", serif;
-$font-three: "Roboto", sans-serif;
+$font-one: "Merriweather", serif;
+$font-two: "Roboto", sans-serif;
+$font-three: "Great Vibes", cursive;
 
-/*Navigation */
-.navbar-brand {
-  color: $color-three;
+/* Global */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Navigation */
+.navbar-light .navbar-brand {
+  color: #fed136;
+  font-family: $font-three;
+  font-size: 25px;
 }

@@ -1,7 +1,16 @@
 /* Variables */
-/*Navigation */
-.navbar-brand {
-  color: #fed136;
+/* Global */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxjQUFBO0FBUUEsY0FBQTtBQUNBO0VBQ0UsY0FQWTtBQ0NkIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
+/* Navigation */
+.navbar-light .navbar-brand {
+  color: #fed136;
+  font-family: "Great Vibes", cursive;
+  font-size: 25px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxjQUFBO0FBUUEsV0FBQTtBQUNBOzs7RUFHRSxzQkFBQTtBQ05GOztBRFNBLGVBQUE7QUFDQTtFQUNFLGNBQUE7RUFDQSxtQ0FaVztFQWFYLGVBQUE7QUNORiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
