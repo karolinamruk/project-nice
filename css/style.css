@@ -27,7 +27,7 @@
   --bs-bg-opacity: 0;
 }
 
-.nav-link {
+.navbar-light .navbar-nav .nav-link {
   color: #ffffff;
 }
 
