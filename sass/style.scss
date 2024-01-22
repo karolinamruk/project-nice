@@ -28,3 +28,10 @@ $font-three: "Great Vibes", cursive;
   font-family: $font-three;
   font-size: 25px;
 }
+.bg-light {
+  --bs-bg-opacity: 0;
+}
+
+.nav-link {
+  color: $color-one;
+}
