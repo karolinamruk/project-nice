@@ -35,3 +35,6 @@ $font-three: "Great Vibes", cursive;
 .navbar-light .navbar-nav .nav-link {
   color: $color-one;
 }
+.navbar-expand-lg .navbar-collapse {
+  justify-content: right;
+}
