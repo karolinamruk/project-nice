@@ -13,6 +13,10 @@ $font-three: "Great Vibes", cursive;
   box-sizing: border-box;
 }
 /*Splash*/
+.container {
+  max-width: 950px;
+  padding: 20px;
+}
 .splash {
   height: 100vh;
   position: relative;
@@ -26,7 +30,7 @@ $font-three: "Great Vibes", cursive;
 .navbar-light .navbar-brand {
   color: #fed136;
   font-family: $font-three;
-  font-size: 25px;
+  font-size: 30px;
 }
 .bg-light {
   --bs-bg-opacity: 0;
@@ -34,7 +38,12 @@ $font-three: "Great Vibes", cursive;
 
 .navbar-light .navbar-nav .nav-link {
   color: $color-one;
+  padding: 20px;
 }
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #fed136;
+}
+
 .navbar-expand-lg .navbar-collapse {
   justify-content: right;
 }
