@@ -87,3 +87,18 @@ h2 {
 .navbar-expand-lg .navbar-collapse {
   justify-content: right;
 }
+/*Services*/
+
+.fa-basket-shopping::before,
+.fa-laptop::before,
+.fa-lock::before {
+  color: #fed136;
+  font-size: 35px;
+}
+
+.services {
+  text-align: center;
+}
+.p-3 {
+  border: none;
+}
