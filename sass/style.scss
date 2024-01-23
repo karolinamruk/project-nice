@@ -13,6 +13,12 @@ $font-three: "Great Vibes", cursive;
 *::after {
   box-sizing: border-box;
 }
+
+.container {
+  max-width: 950px;
+  padding: 20px;
+}
+
 h1 {
   color: $color-one;
   text-align: center;
@@ -59,11 +65,9 @@ p {
   color: $color-four;
   font-size: 14px;
 }
+
 /*Splash*/
-.container {
-  max-width: 950px;
-  padding: 20px;
-}
+
 .splash {
   height: 100vh;
   position: relative;
@@ -121,7 +125,9 @@ p {
   justify-content: right;
 }
 /*Services*/
-
+.services .card {
+  max-height: 300px;
+}
 .fa-basket-shopping::before,
 .fa-laptop::before,
 .fa-lock::before {
