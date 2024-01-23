@@ -94,7 +94,7 @@ h1 {
 .fa-laptop::before,
 .fa-lock::before {
   color: #fed136;
-  font-size: 35px;
+  font-size: 45px;
 }
 
 .services {
@@ -106,18 +106,21 @@ h1 {
 
 h3 {
   font-family: $font-two;
-  margin: 20px;
+  margin-bottom: 20px;
+  margin-top: 80px;
   font-size: 40px;
 }
 h4 {
   font-family: $font-two;
   margin: 20px;
+  font-size: 20px;
 }
 
 h5 {
   font-family: $font-one;
   font-size: 16px;
   color: $color-four;
+  margin-bottom: 76px;
 }
 
 p {
