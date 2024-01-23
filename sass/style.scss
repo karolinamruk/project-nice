@@ -51,14 +51,14 @@ $font-three: "Great Vibes", cursive;
   background-position: 0 100%;
   color: $color-two;
 }
-h1 {
+.splash h1 {
   color: $color-one;
   text-align: center;
   font-family: $font-one;
   margin-top: 120px;
 }
 
-h2 {
+.splash h2 {
   color: $color-one;
   text-align: center;
   font-family: $font-two;
@@ -101,4 +101,14 @@ h2 {
 }
 .p-3 {
   border: none;
+}
+
+.services h1,
+h5 {
+  font-family: $font-two;
+  margin: 20px;
+}
+
+.services-subtitle {
+  font-style: italic;
 }
