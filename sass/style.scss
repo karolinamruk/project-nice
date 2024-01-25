@@ -109,6 +109,15 @@ p {
   font-family: $font-three;
   font-size: 30px;
 }
+
+.navbar-light .navbar-brand:focus {
+  color: $color-three;
+}
+
+.navbar-light .navbar-brand:hover {
+  color: $color-one;
+}
+
 .bg-light {
   --bs-bg-opacity: 0;
 }
@@ -125,6 +134,13 @@ p {
 }
 .navbar-expand-lg .navbar-collapse {
   justify-content: right;
+}
+
+element.style {
+}
+.navbar-light .navbar-toggler {
+  background-color: white;
+  opacity: 0.5;
 }
 /*Services*/
 .services .card {
@@ -162,6 +178,7 @@ p {
 /*Fotter*/
 .footer {
   padding-top: 20px;
+  text-align: center;
 }
 .footer i {
   font-size: 18px;
@@ -172,9 +189,17 @@ p {
   color: $color-one;
   border-radius: 50%;
   text-align: center;
-  margin-left: 5px;
 }
 .footer li {
   display: inline-block;
   font-size: 0;
+}
+.col-md-4 {
+  text-align: center;
+  margin: 5px 0px;
+}
+.footer ul {
+  padding: 0px 12px;
+  text-align: center;
+  margin: 5px 0px;
 }
